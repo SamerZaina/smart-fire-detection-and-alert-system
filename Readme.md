@@ -254,6 +254,6 @@ Computer Engineer | Flutter Developer
 
 Profiles Links:
 
-[LinkedIn Profile](https://www.linkedin.com/in/samerabuzaina/) | [X Profile](https://x.com/SamerAbuZaina) | [Hackmd](https://hackmd.io/@wpo3bmzzTHevehZ2sWivjw?utm_source=overview&utm_medium=team-switcher)
+[LinkedIn Profile](https://www.linkedin.com/in/samerabuzaina/) | [X Profile](https://x.com/SamerAbuZaina) | [HackMD](https://hackmd.io/@wpo3bmzzTHevehZ2sWivjw?utm_source=overview&utm_medium=team-switcher)
 
 ---
